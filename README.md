@@ -262,11 +262,11 @@ You can also add new `*.bib` files and customize the look of your publications h
 
 <details><summary>(click to expand) <strong>Author annotation:</strong></summary>
 
-In publications, the author entry for yourself is identified by string `scholar:last_name` and string array `scholar:first_name` in `_config.yml`:
+In publications, the author entry for yourself is identified by string `scholar:surname` and string array `scholar:name` in `_config.yml`:
 ```
 scholar:
-  last_name: Einstein
-  first_name: [Albert, A.]
+  surname: Einstein
+  name: [Albert, A.]
 ```
 If the entry matches the last name and one form of the first names, it will be underlined.
 Keep meta-information about your co-authors in `_data/coauthors.yml` and Jekyll will insert links to their webpages automatically.
