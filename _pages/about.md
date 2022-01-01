@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.cse.iitb.ac.in/">CSE, IIT Bombay</a>.
+subtitle: <a href="https://www.cse.iitb.ac.in/">CSE, IIT Bombay</a>
 
 profile:
   align: right
