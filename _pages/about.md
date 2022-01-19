@@ -6,7 +6,7 @@ subtitle: <a href="https://www.cse.iitb.ac.in/">CSE, IIT Bombay</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   address: >
     <p>Mumbai, India</p>
 
