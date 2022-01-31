@@ -6,9 +6,9 @@ date: 2022-01-05
 
 authors:
   - name: Akkapaka Saikiran
-	url: "https://akkapakasaikiran.github.io/" 
-	affiliations:
-	  name: CSE, IIT Bombay
+    url: "https://akkapakasaikiran.github.io/" 
+    affiliations:
+      name: CSE, IIT Bombay
 
 ---
 
