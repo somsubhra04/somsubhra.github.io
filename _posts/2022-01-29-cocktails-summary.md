@@ -8,7 +8,7 @@ authors:
   - name: Akkapaka Saikiran
     url: "https://akkapakasaikiran.github.io/" 
     affiliations:
-      name: CSE, IITB
+      name: CSE, IIT Bombay
 
 ---
 
@@ -34,7 +34,7 @@ The authors lay down three hypotheses and design experiments to validate them. T
 
 * Why do we want DL for tabular data? What benefits does it offer over GBDTs? The paper doesn’t talk about this. DL is probably a better fit for automating pipelines and requires less human engineering, but when is this worth the compute and training+inference time overhead?
 
-* Why do GBDTs perform well on tabular data?<d-footnote>See this reddit discussion for more details: https://www.reddit.com/r/MachineLearning/comments/9826bt/d_why_is_deep_learning_so_bad_for_tabular_data/ </d-footnote> Classification can be viewed as carving out decision boundaries in some representation space. Tabular data is often regular (more linearly seperable) than unstructured data (eg. image data). Tree-based models, by virtue of their design, are better at cleanly slicing hyperplanes through data. OTOH, DL creates non-linear boundaries.
+* Why do GBDTs perform well on tabular data?<d-footnote>See <a href="https://www.reddit.com/r/MachineLearning/comments/9826bt/d_why_is_deep_learning_so_bad_for_tabular_data/ ">this</a> reddit discussion for more details: https://www.reddit.com/r/MachineLearning/comments/9826bt/d_why_is_deep_learning_so_bad_for_tabular_data/ </d-footnote> Classification can be viewed as carving out decision boundaries in some representation space. Tabular data is often regular (more linearly seperable) than unstructured data (eg. image data). Tree-based models, by virtue of their design, are better at cleanly slicing hyperplanes through data. OTOH, DL creates non-linear boundaries.
 
 * In the experiments, XGBoost is not endowed with feature engineering, thus rendering it weaker than it is in practice. The neural networks are getting attention (in the form of regularization search and tuning), so one may argue about the fairness of this comparison.
 
