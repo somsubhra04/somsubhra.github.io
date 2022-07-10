@@ -5,9 +5,9 @@
 title: Saikiran # the website title (if blank, full name will be used instead)
 name: Saikiran
 surname: Akkapaka
-email: saikiraniitb,gmail,com
+email: saikiraniitb at gmail dot com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Akkapaka Saikiran's personal website  
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords:  # add your own keywords or leave empty

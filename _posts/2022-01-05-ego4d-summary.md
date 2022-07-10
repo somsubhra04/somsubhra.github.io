@@ -3,6 +3,7 @@ layout: distill
 title: "Dataset Summary: Ego4D"
 description: Notes on the recently announced Ego4D dataset  
 date: 2022-01-05
+show: true
 
 authors:
   - name: Akkapaka Saikiran
@@ -46,6 +47,6 @@ It thus gives way to many grounded vision-language tasks like retrieval and capt
 
 **Benchmarks.** 
 Egocentric vision demands novel approaches of video understanding to account for long-form video, attention cues, person-object interaction, multi-sensory data, and the lack of manual temporal curation inherent to a passively worn camera. To this end, Ego4D comes with a set of benchmark tasks and associated baseline models that use SoTA components. 
-The benchmarks are: 1) Episodic Memory, 2) Hands and Objects, 3) Audio-visual Diarization, 4. Social Interactions, and 5) Forecasting.
+The benchmarks are: 1) Episodic Memory, 2) Hands and Objects, 3) Audio-visual Diarization, 4) Social Interactions, and 5) Forecasting.
 
 

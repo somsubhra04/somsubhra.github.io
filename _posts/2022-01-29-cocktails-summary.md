@@ -3,6 +3,7 @@ layout: distill
 title: "Paper summary: Regularization Cocktails"
 description: A short summary of 'Well-tuned Simple Nets Excel on Tabular Datasets' by Arlind Kadra et al. 
 date: 2022-01-29
+show: true
 
 authors:
   - name: Akkapaka Saikiran
