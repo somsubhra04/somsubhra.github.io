@@ -42,7 +42,7 @@ F.
 Grumbled happily. Beautiful.
 
 *They hid the bicycle at a safe distance from Dina Dalai’s door, in a cobwebby stairwell that smelled of urine and country liquor. Chaining it to a disused gas pipe, they emerged brushing off the invisible threads clinging to their hands and faces. Ghosts of the webs continued to bother them for some time. Their fingers kept returning to their foreheads and necks to remove strands that were not there.*
-I love how Mistry grabs and portrays mundane everyday moments. "Ghosts of webs" is so apt.
+I love how Mistry grabs and portrays mundane everyday moments. "Ghosts of the webs" is so apt.
 
 *Halfway through the vacation a late monsoon surge darkened the skies. Heavy rain kept the boys indoors. Bored and restless ...*
 So relatable!
