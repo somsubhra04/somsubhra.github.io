@@ -3,7 +3,7 @@ layout: distill
 title: "Book Review: A Fine Balance (Rohinton Mistry)"
 description: A book review of 'A Fine Balance', a 1995 novel by Rohinton Mistry 
 date: 2022-07-06
-show: false
+show: true
 
 authors:
   - name: Akkapaka Saikiran
