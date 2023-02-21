@@ -6,7 +6,8 @@ subtitle: <a href="">DS, IIT Madras</a>
 
 profile:
   align: right
-  image: pfp.png
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
   #address: >
     #<p></p>
 
