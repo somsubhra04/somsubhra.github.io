@@ -6,7 +6,7 @@ subtitle: <a href="">DS, IIT Madras</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pfp.png
   image_circular: false # crops the image to make it circular
   #address: >
     #<p></p>
@@ -17,6 +17,9 @@ social: false  # includes social icons at the bottom of the page
 ---
 Thanks for stopping by. Myself, Somsubhra. Welcome to my homepage. I'm an undergraduate BS student at [Indian Institute 
                         of Technology (IIT) Madras](https://study.iitm.ac.in).
+                        
+ 
+My areas of interest include Data science, AI, Maths and computing.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
