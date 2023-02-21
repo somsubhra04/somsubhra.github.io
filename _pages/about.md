@@ -6,9 +6,9 @@ subtitle: <a href="">DS, IIT Madras</a>
 
 profile:
   align: right
-  image: pfp.jpg
-  address: >
-    <p>Mumbai, India</p>
+  image: pfp.png
+  #address: >
+    #<p></p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
