@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Saikiran # the website title (if blank, full name will be used instead)
-name: Saikiran
-surname: Akkapaka
-email: saikiraniitb at gmail dot com
+title: Somsubhra # the website title (if blank, full name will be used instead)
+name: Somsubhra
+surname: De
+email: somsubhra@outlook.in
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Akkapaka Saikiran's personal website  
 footer_text: >
@@ -14,7 +14,7 @@ keywords:  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🐱 # the emoji used as the favicon
-url: https://akkapakasaikiran.github.io # the base hostname & protocol for your site
+url: https://somsubhra04.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -49,10 +49,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: akkapakasaikiran # your GitHub user name
+github_username: somsubhra04 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: a-saikiran # your LinkedIn user name
+linkedin_username: somsubhrad # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -65,14 +65,14 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
-goodreads_username: skeleton-detective
+goodreads_username: #
 
 rss_icon: false
 
 contact_note: >
   The best way to reach me is via email.
 
-google_analytics: UA-216150684-1 # your google-analytics ID (format: UA-XXXXXXXXX)
+google_analytics: # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
@@ -81,7 +81,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: saikiran's blog  # your blog must have a name for it to show up in the nav bar
+blog_name: somsubhra's blog  # your blog must have a name for it to show up in the nav bar
 blog_description: 
 permalink: /blog/:year/:title/
 
