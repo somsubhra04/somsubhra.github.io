@@ -12,7 +12,7 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 Thanks for stopping by. Myself, Somsubhra. Welcome to my homepage. I'm an undergraduate BS student at [Indian Institute 
                         of Technology (IIT) Madras](https://study.iitm.ac.in).
