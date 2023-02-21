@@ -7,7 +7,7 @@ name: Somsubhra
 surname: De
 email: somsubhra@outlook.in
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Akkapaka Saikiran's personal website  
+  Somsubhra's personal website  
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords:  # add your own keywords or leave empty
