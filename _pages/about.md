@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.cse.iitb.ac.in/">CSE, IIT Bombay</a>
+subtitle: <a href="">DS, IIT Madras</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pfp.jpg
   address: >
     <p>Mumbai, India</p>
 
