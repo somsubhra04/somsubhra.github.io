@@ -14,10 +14,8 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-Hi! I am Saikiran, I recently finished my undergraduate in the Computer Science and Engineering department of [IIT Bombay](https://www.cse.iitb.ac.in/) (2018-22). 
-In Fall 2022, I'll be joining [ETH Zürich](https://inf.ethz.ch/) for an MSc in Computer Science. 
-I'm currently interested in machine learning, computer vision, and fairness & interpretability in ML.
+Thanks for stopping by. Myself, Somsubhra. Welcome to my homepage. I'm an undergraduate BS student at [Indian Institute 
+                        of Technology (IIT) Madras](https://study.iitm.ac.in).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
