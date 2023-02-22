@@ -1,6 +1,6 @@
 ---
 layout: about
-title: bout
+title: About
 permalink: /
 subtitle: <a href="">DS, IIT Madras</a>
 
