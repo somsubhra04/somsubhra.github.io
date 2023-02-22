@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: "Dataset Summary: Ego4D"
+title: "Demo: Ego4D"
 description: Notes on the recently announced Ego4D dataset  
 date: 2022-01-05
 show: true
