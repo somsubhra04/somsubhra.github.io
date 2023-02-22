@@ -2,7 +2,7 @@
 layout: page
 title: Academics
 nav: true
-nav_order: 3
+nav_order: 1
 dropdown: true
 children: 
     - title: Courses
