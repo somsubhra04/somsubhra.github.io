@@ -82,7 +82,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 blog_name: Kaleidoscope # your blog must have a name for it to show up in the nav bar
-blog_description: Blog Corner!
+blog_description: Finding beauty in every angle with kaleidoscope, where we explore the many facets of life ...
 permalink: /blog/:year/:title/
 
 # Pagination
