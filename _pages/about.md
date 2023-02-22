@@ -1,7 +1,8 @@
 ---
 layout: about
-title: hi
+title: About
 permalink: /
+nav: true
 subtitle: <a href="">DS, IIT Madras</a>
 
 profile:
