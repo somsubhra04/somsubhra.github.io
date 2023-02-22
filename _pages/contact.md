@@ -10,4 +10,4 @@ nav_order: 6
 
 Email: somsubhra@outlook.in (preferred)
 
-You can also find me on [Linkedin](https://www.linkedin.com/in/somsubhrad/), [Twitter](https://twitter.com/somsubhraspeaks) and [FB](https://facebook.com/somsubhra2004)
+You can also find me on [Linkedin](https://www.linkedin.com/in/somsubhrad/), [Twitter](https://twitter.com/somsubhraspeaks) and [FB](https://facebook.com/somsubhra2004).
