@@ -6,4 +6,4 @@ description: A quick summary of the courses taken so far
 nav: false
 ---
 
-`_projects/` so that you can have a dedicated page for each course.
+`Sep 2022 - Sep 2023`
