@@ -8,7 +8,7 @@ children:
     - title: Hobbies
       permalink: /hobbies
     - title: divider
-    - title: Kaleidoscope
+    - title: Blogs
       permalink: /blog
     - title: divider
     - title: Important Links
