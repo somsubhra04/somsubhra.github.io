@@ -7,9 +7,12 @@ dropdown: true
 children: 
     - title: Courses
       permalink: /courses
-    - title: publications
+    - title: divider
+    - title: News
+      permalink: /news
+    <!-- - title: Publications
       permalink: /publications/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Projects
+      permalink: /projects/ -->
 ---
