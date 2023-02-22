@@ -21,6 +21,8 @@ Thanks for stopping by. Myself, Somsubhra. Welcome to my homepage. I'm an underg
  
 My areas of interest include Data science, AI, Programming, Maths and computing.
 
+P.S. This space of mine will always remain under construction. I'll keep on updating the pages whenever I get time. Do keep visiting!
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
