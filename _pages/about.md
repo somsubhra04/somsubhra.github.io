@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: bout
 permalink: /
 subtitle: <a href="">DS, IIT Madras</a>
 
@@ -11,7 +11,7 @@ profile:
   #address: >
     #<p></p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
