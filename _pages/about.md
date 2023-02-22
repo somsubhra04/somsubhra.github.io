@@ -19,7 +19,7 @@ Thanks for stopping by. Myself, Somsubhra. Welcome to my homepage. I'm an underg
                         of Technology (IIT) Madras](https://study.iitm.ac.in).
                         
  
-My areas of interest include Data science, AI, Programming, Maths and computing.
+My areas of interest include Data science, AI, Maths and Computing.
 
 P.S. This space of mine will always remain under construction. I'll keep on updating the pages whenever I get time. Do keep visiting!
 
