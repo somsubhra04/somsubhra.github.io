@@ -9,7 +9,7 @@ children:
       permalink: /hobbies
     - title: divider
     - title: Kaleidoscope
-      permalink: /gallery
+      permalink: /blog
     - title: divider
     - title: Important Links
       permalink: /links  
