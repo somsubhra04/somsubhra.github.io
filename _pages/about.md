@@ -11,7 +11,7 @@ profile:
   #address: >
     #<p></p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
@@ -19,7 +19,7 @@ Thanks for stopping by. Myself, Somsubhra. Welcome to my homepage. I'm an underg
                         of Technology (IIT) Madras](https://study.iitm.ac.in).
                         
  
-My areas of interest include Data science, AI, Maths and computing.
+My areas of interest include Data science, AI, Programming, Maths and computing.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
