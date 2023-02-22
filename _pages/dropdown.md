@@ -10,9 +10,9 @@ children:
     - title: divider
     - title: News
       permalink: /news
-    <!-- - title: Publications
-      permalink: /publications/
-    - title: divider
-    - title: Projects
-      permalink: /projects/ -->
+    #- title: Publications
+    #  permalink: /publications/
+    #- title: divider
+    #- title: Projects
+    #  permalink: /projects/
 ---
