@@ -19,7 +19,9 @@ Thanks for stopping by. Myself, Somsubhra. Welcome to my homepage. I'm an underg
                         of Technology (IIT) Madras](https://study.iitm.ac.in).
                         
  
-As a freshman, I am excited to explore various courses in this field to gain a deeper understanding of the breadth and depth of knowledge available. While I have some initial research interests in the Data science, AI, Maths and Computing domains, I acknowledge that my interests will surely evolve and be more specific as I engage with new ideas and delve into new concepts and theories throughout my academic journey.
+As a freshman, I am excited to explore various courses in this field to gain a deeper understanding of the breadth and depth of knowledge available. While I have some initial research interests in the Data science, CS, AI, Maths and Computing domains, I acknowledge that my interests will surely evolve and be more specific as I engage with new ideas and delve into new concepts and theories throughout my academic journey.
+
+I possess a strong foundation in programming and have gained proficiency in languages like Python, PHP, SQL, and C. Additionally, I have acquired essential web development skills, such as HTML, CSS, and JavaScript. Excited to leverage my skills to explore innovative solutions in my future research endeavors.
 
 P.S. This space of mine will always remain under construction. I'll keep on updating the pages whenever I get time. Do keep visiting!
 
