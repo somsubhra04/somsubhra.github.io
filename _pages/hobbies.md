@@ -10,4 +10,4 @@ Beyond my academic pursuits, I love to keep myself engaged in a diverse range of
 
 During my junior school years in 2014, I used to participate in several writing competitions. I secured the 2nd position in a poetry competition organized by Telekids, The Telegraph's creative column for the youngsters. This was my first opportunity to showcase my creativity and it was indeed an unbeleivable and cherishable moment, waking up to see my poetry published in the newspaper. I was also one of the winners of an article writing contest organized by Odisha Positive in 2021.
 
-Here's a small collection from an avid quote enthusiast :smile:
+Here's a small collection from an avid quote enthusiast 😀:
