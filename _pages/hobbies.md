@@ -13,6 +13,7 @@ During my junior school years in 2014, I used to participate in several writing 
 Here's a small collection from an avid quote enthusiast 😀:
 
 <blockquote>
+  
 A smooth sea never made a skilled sailor ~ Roosevelt
 
   
@@ -35,6 +36,7 @@ Happiness is a mysterious thing, to be found somewhere between too little & too 
 
   
 What's comin' will come, an' we'll meet it when it does ~ Hagrid
-  
+
+ 
 A dream is not that you see while sleeping, it's something that doesn't let you sleep ~ Abdul Kalam  
 </blockquote>
