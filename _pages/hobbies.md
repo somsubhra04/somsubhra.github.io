@@ -18,24 +18,31 @@ A smooth sea never made a skilled sailor ~ Roosevelt
 <br>
   
 Everything you can imagine is real ~ Picasso  
+<br>
 
   
 If the writing is honest, it cannot be separated from the man who wrote it ~ Tennessee Williams
+<br>
 
   
 All data has its beauty, but not everyone sees it ~ D. Mingle
+<br>
 
   
 Without data you're just another person with an opinion ~ W. Edwards Deming 
+<br>
  
   
 Respond to every call that excites your spirit ~ Rumi
+<br>
 
   
 Happiness is a mysterious thing, to be found somewhere between too little & too much ~ Ruskin Bond
+<br>
 
   
 What's comin' will come, an' we'll meet it when it does ~ Hagrid
+<br>
 
  
 A dream is not that you see while sleeping, it's something that doesn't let you sleep ~ Abdul Kalam  
