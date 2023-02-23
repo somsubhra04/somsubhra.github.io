@@ -20,7 +20,7 @@ pagination:
     <p>{{ site.blog_description }}</p>
   </div>
  
- {% if site.display_tags %}
+<!-- {% if site.display_tags %}
   <div class="tag-list">
     <ul class="p-0 m-0">
       {% for tag in site.display_tags %}
@@ -33,17 +33,34 @@ pagination:
       {% endfor %}
     </ul>
   </div>
-  {% endif %}
+  {% endif %}-->
 
   
   
-  <ul>
+  <!--<ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
+</ul>-->
+  
+<ul class="post-list">
+{% for post in site.posts %}
+<h3>
+<a class="post-title" href="{{ post.url }}">{{ post.title }}</a>
+</h3>
+ <svg width="2rem" height="2rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+<path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+<p>{{ post.description }}</p>
+      <p class="post-meta">
+        {{ read_time }} min read &nbsp; &middot; &nbsp;
+        {{ post.date | date: '%B %-d, %Y' }}
+  </p>  
+  {% endfor %}  
 </ul>
+  
 
   
   <!--<ul class="post-list">
