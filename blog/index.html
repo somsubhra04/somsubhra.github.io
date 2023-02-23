@@ -45,7 +45,7 @@ pagination:
   {% endfor %}
 </ul>-->
   
-<ul class="post-list">
+<!--<ul class="post-list">
 {% for post in site.posts %}
 <h3>
 <a class="post-title" href="{{ post.url }}">{{ post.title }}</a>
@@ -60,11 +60,11 @@ pagination:
   </p>  
   {% endfor %}  
 </ul>
-  
+  -->
 
   
-  <!--<ul class="post-list">
-    {% for post in paginator.posts %}
+  <ul class="post-list">
+    {% for post in site.posts %}
 
     {% if post.external_source == blank %}
       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
@@ -121,7 +121,7 @@ pagination:
     </li>
 
     {% endfor %}
-  </ul>-->
+  </ul>
 
   {% include pagination.html %}
 
