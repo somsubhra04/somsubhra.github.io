@@ -14,7 +14,7 @@ Here's a small collection from an avid quote enthusiast 😀:
 
 <blockquote>
   
-A smooth sea never made a skilled sailor ~ Roosevelt
+<i class="fas fa-quote-left">A smooth sea never made a skilled sailor ~ Roosevelt
 <br>
   
 Everything you can imagine is real ~ Picasso  
@@ -31,7 +31,10 @@ All data has its beauty, but not everyone sees it ~ D. Mingle
   
 Without data you're just another person with an opinion ~ W. Edwards Deming 
 <br>
- 
+  
+  
+“Where should I go?” - Alice. “That depends on where you want to end up.” - The Cheshire Cat. ~ Lewis Caroll 
+<br> 
   
 Respond to every call that excites your spirit ~ Rumi
 <br>
@@ -39,7 +42,10 @@ Respond to every call that excites your spirit ~ Rumi
   
 Happiness is a mysterious thing, to be found somewhere between too little & too much ~ Ruskin Bond
 <br>
-
+  
+  
+And when all the wars are over, a butterfly will still be beautiful ~ Ruskin Bond
+<br>
   
 What's comin' will come, an' we'll meet it when it does ~ Hagrid
 <br>
