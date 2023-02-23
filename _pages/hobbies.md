@@ -14,7 +14,7 @@ Here's a small collection from an avid quote enthusiast 😀:
 
 <blockquote>
   
-<i class="fas fa-quote-left">A smooth sea never made a skilled sailor ~ Roosevelt
+<i class="fas fa-quote-left"></i> A smooth sea never made a skilled sailor ~ Roosevelt
 <br>
   
 Everything you can imagine is real ~ Picasso  
