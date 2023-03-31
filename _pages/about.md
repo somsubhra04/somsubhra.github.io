@@ -15,7 +15,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-Thanks for stopping by. Myself, Somsubhra. Welcome to my homepage. I'm an undergrad, pursuing BS at [Indian Institute of Technology (IIT) Madras](https://study.iitm.ac.in).
+Thanks for stopping by. Myself, Somsubhra. Welcome to my homepage. I'm an undergrad, pursuing BS at [Indian Institute of Technology (IIT) Madras](https://study.iitm.ac.in){:target="_blank"}.
                         
  
 As a freshman, I am excited to explore various courses in this field to gain a deeper understanding of the breadth and depth of knowledge available. While I have some initial research interests in the Data science, CS, AI, ML, NLP, Maths and Computing domains, I acknowledge that my interests will surely evolve and be more specific as I engage with new ideas and delve into new concepts and theories throughout my academic journey.
