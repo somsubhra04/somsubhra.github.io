@@ -12,4 +12,4 @@ I plan to put up some interesting & useful links here!
 
 Attention high school AI enthusiasts! Check out this must-visit websites!
 
-* [Intel AI4Youth Programme](https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/digital-readiness-ai-for-youth.html){:target="_blank"} | [AI Student Community](https://aistudent.community){:target="_blank"}
+* [Intel AI4Youth Programme](https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/digital-readiness-ai-for-youth.html){:target="_blank"} [AI Student Community](https://aistudent.community){:target="_blank"}
