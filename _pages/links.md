@@ -9,3 +9,5 @@ nav: false
 I plan to put up some interesting & useful links here!
 
 * [Towards Data Science](https://towardsdatascience.com){:target="_blank"}
+
+* [Intel AI4Youth Programme](https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/digital-readiness-ai-for-youth.html){:target="_blank"}
