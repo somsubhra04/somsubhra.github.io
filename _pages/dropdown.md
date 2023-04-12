@@ -7,8 +7,8 @@ dropdown: true
 children: 
     - title: Courses
       permalink: /courses
-    - title: CV
-      permalink: /assets/pdf/CV.pdf 
+    #- title: CV
+    #  permalink: /assets/pdf/CV.pdf 
     - title: divider
     - title: News
       permalink: /news
