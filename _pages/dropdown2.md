@@ -12,5 +12,7 @@ children:
       permalink: /blog
     - title: divider
     - title: Important Links
-      permalink: /links  
+      permalink: /links 
+    - title: Gallery
+      permalink: /gallery
 ---
