@@ -1,15 +1,54 @@
 - id: course1
   title: Mathematics for Data Science II (MA1003)
-  description: This course provides an introduction to the mathematical foundations of data science, including linear algebra, calculus, and probability theory.
-  faculty:
+  description: 
+  faculty: Prof Sarang Sane (Dept of Maths IITM)
   topics:
     - Linear Algebra
     - Multivariable Calculus
     - Probability Theory
 
 - id: course2
-  title: dummy
-  description: testing
-  faculty:
+  title: Statistics for Data Science II (MA1004)
+  description: 
+  faculty: Prof Andrew Thangaraj (Dept of EE IITM)
   topics:
     - 
+- id: course3
+  title: Programming in Python (CS1002)
+  description: 
+  faculty: Prof Sudarshan Iyengar (HOD, CSE, IITR)
+  topics:
+    - 
+
+- id: course4
+  title: Mathematics for Data Science I (MA1001)
+  description: 
+  faculty: Prof Neelesh Upadhye (Dept of Maths IITM), Madhavan Mukund (CMI)
+  topics:
+    - 
+- id: course5
+  title: Statistics for Data Science I (MA1002)
+  description: 
+  faculty: Prof Usha Mohan (Dept of Management Studies IITM)
+  topics:
+    - 
+
+- id: course6
+  title: Computational Thinking (CS1001)
+  description: 
+  faculty: Prof Madhavan Mukund (CMI) and G Venkatesh (Dept of Humanities and Social Sciences IITM)
+  topics:
+    - 
+- id: course7
+  title: English II (HS1002)
+  description: 
+  faculty: Prof Rajesh Kumar and Karthika Sathyanathan (Dept of Humanities and Social Sciences IITM)
+  topics:
+    - 
+
+- id: course8
+  title: English I (HS1001)
+  description: 
+  faculty: Prof Rajesh Kumar and Karthika Sathyanathan (Dept of Humanities and Social Sciences IITM)
+  topics:
+    -     
