@@ -19,8 +19,8 @@ nav: false
       <span class="close">&times;</span>      
       <h2>{{ course.title }}</h2>
       <p>{{ course.description }}</p>
-      <p>{{ course.faculty }}</p>
-      <h3>Topics Covered:</h3>
+      <p>Faculty: {{ course.faculty }}</p>
+      <h3>Topics Learnt:</h3>
       <ul>
         {% for topic in course.topics %}
         <li>{{ topic }}</li>
