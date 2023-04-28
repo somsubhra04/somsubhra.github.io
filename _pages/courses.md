@@ -8,6 +8,10 @@ nav: false
 
 `My UG Learning Journey @ IITM`
 
+
+
+
+'''
 **Sem 2**
 * Mathematics for Data Science II (MA1003) - Prof Sarang Sane (Dept of Maths IITM)
 * Statistics for Data Science II (MA1004) - Prof Andrew Thangaraj (Dept of EE IITM)
@@ -23,3 +27,4 @@ nav: false
 `External Courses`
 
 * Intro to Programming in C by IITK (NPTEL OC)
+'''
