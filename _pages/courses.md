@@ -8,19 +8,7 @@ nav: false
 
 `My UG Learning Journey @ IITM`
 
-**Year 1**
-<!--
-* 
-* Mathematics for Data Science II (MA1003) - Prof Sarang Sane (Dept of Maths IITM)
-* Statistics for Data Science II (MA1004) - Prof Andrew Thangaraj (Dept of EE IITM)
-* Programming in Python (CS1002) - Prof Sudarshan Iyengar (HOD, CSE, IITR)
-* English II (HS1002) - Prof Rajesh Kumar and Karthika Sathyanathan (Dept of Humanities and Social Sciences IITM)
-* Mathematics for Data Science I (MA1001) - Prof Neelesh Upadhye (Dept of Maths IITM), Madhavan Mukund (CMI)
-* Statistics for Data Science I (MA1002) - Prof Usha Mohan (Dept of Management Studies IITM)
-* Computational Thinking (CS1001) - Prof Madhavan Mukund (CMI) and G Venkatesh (Dept of Humanities and Social Sciences IITM)
-* English I (HS1001) - Prof Rajesh Kumar and Karthika Sathyanathan (Dept of Humanities and Social Sciences IITM)
--->
-(Pls check this page later. This is under dev.)
+**Year 1 (Updated till sem 2)**
 
 {% assign courses = site.data.courses-ug-y1 %}
 {% for course in courses %}
@@ -52,7 +40,7 @@ nav: false
 .modal {
   display: none;
   position: fixed;
-  z-index: 1;
+  z-index: 1000; /* Changed from 1 to 1000 */
   left: 0;
   top: 0;
   width: 100%;
