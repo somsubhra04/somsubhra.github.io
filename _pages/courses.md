@@ -28,7 +28,7 @@ nav: false
       </ul>
     </div>
   </div>
-</div>
+</div><br>
 {% endfor %}
 
 `External Courses`
