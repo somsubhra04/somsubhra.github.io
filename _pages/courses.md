@@ -8,10 +8,6 @@ nav: false
 
 `My UG Learning Journey @ IITM`
 
-
-
-
-'''
 **Sem 2**
 * Mathematics for Data Science II (MA1003) - Prof Sarang Sane (Dept of Maths IITM)
 * Statistics for Data Science II (MA1004) - Prof Andrew Thangaraj (Dept of EE IITM)
@@ -27,4 +23,45 @@ nav: false
 `External Courses`
 
 * Intro to Programming in C by IITK (NPTEL OC)
-'''
+
+
+{% assign courses = site.data.courses %}
+{% for course in courses %}
+<div class="course">
+  <a href="#{{ course.id }}" data-toggle="modal">{{ course.title }}</a>
+  <div id="{{ course.id }}" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <h2>{{ course.title }}</h2>
+      <p>{{ course.description }}</p>
+      <h3>Topics Covered:</h3>
+      <ul>
+        {% for topic in course.topics %}
+        <li>{{ topic }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
+{% endfor %}
+
+<script>
+var modals = document.querySelectorAll('.modal');
+var links = document.querySelectorAll('[data-toggle="modal"]');
+var closers = document.querySelectorAll('.close');
+
+for (var i = 0; i < links.length; i++) {
+  links[i].addEventListener('click', function(e) {
+    e.preventDefault();
+    var target = this.getAttribute('href');
+    document.querySelector(target).style.display = 'block';
+  });
+}
+
+for (var i = 0; i < closers.length; i++) {
+  closers[i].addEventListener('click', function() {
+    var modal = this.parentNode.parentNode;
+    modal.style.display = 'none';
+  });
+}
+</script>
