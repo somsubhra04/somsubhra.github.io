@@ -16,7 +16,6 @@ nav: false
   <li><a href="#{{ course.id }}" data-toggle="modal" style="color:black;text-decoration:none;">{{ course.title }}</a></li>
   <div id="{{ course.id }}" class="modal">
     <div class="modal-content">
-      <span class="close">&times;</span>      
       <h2>{{ course.title }}</h2>
       <p>{{ course.description }}</p>
       <p>Faculty: {{ course.faculty }}</p>
@@ -30,10 +29,11 @@ nav: false
   </div>
 </div>
 {% endfor %}
-<br>
+
+
 `External Courses`
 
-* Programming in C by IITK (NPTEL OC)
+<li>Programming in C by IITK (NPTEL OC)</li>
 
 
 <style>
