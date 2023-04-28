@@ -11,7 +11,7 @@ nav_order: 6
 Personal Email: somsubhra [at] outlook [dot] in
 
 
-You can also find me on [Linkedin](https://www.linkedin.com/in/somsubhrad/) and [Twitter](https://twitter.com/somsubhraspeaks).
+You can also find me on [Linkedin](https://www.linkedin.com/in/somsubhrad/){:target="_blank"} and [Twitter](https://twitter.com/somsubhraspeaks){:target="_blank"}.
 
 Few thoughts:
 
