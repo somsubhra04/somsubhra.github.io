@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /courses
-title: Courses
+title: Coursework
 description: A quick summary of the courses taken so far
 nav: false
 ---
 
-`My Learning Journey @ IITM`
+`My UG Learning Journey @ IITM`
 
 **Sem 2**
 * Mathematics for Data Science II (MA1003) - Prof Sarang Sane (Dept of Maths IITM)
