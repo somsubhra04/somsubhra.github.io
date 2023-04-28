@@ -8,32 +8,25 @@ nav: false
 
 `My UG Learning Journey @ IITM`
 
-**Sem 2**
+**Year 1**
 * Mathematics for Data Science II (MA1003) - Prof Sarang Sane (Dept of Maths IITM)
 * Statistics for Data Science II (MA1004) - Prof Andrew Thangaraj (Dept of EE IITM)
 * Programming in Python (CS1002) - Prof Sudarshan Iyengar (HOD, CSE, IITR)
 * English II (HS1002) - Prof Rajesh Kumar and Karthika Sathyanathan (Dept of Humanities and Social Sciences IITM)
-
-**Sem 1**
 * Mathematics for Data Science I (MA1001) - Prof Neelesh Upadhye (Dept of Maths IITM), Madhavan Mukund (CMI)
 * Statistics for Data Science I (MA1002) - Prof Usha Mohan (Dept of Management Studies IITM)
 * Computational Thinking (CS1001) - Prof Madhavan Mukund (CMI) and G Venkatesh (Dept of Humanities and Social Sciences IITM)
 * English I (HS1001) - Prof Rajesh Kumar and Karthika Sathyanathan (Dept of Humanities and Social Sciences IITM)
 
-`External Courses`
-
-* Intro to Programming in C by IITK (NPTEL OC)
-
-
-{% assign courses = site.data.courses %}
+{% assign courses = site.data.courses-ug-y1 %}
 {% for course in courses %}
 <div class="course">
-  <a href="#{{ course.id }}" data-toggle="modal">{{ course.title }}</a>
+  <li><a href="#{{ course.id }}" data-toggle="modal" style="color:black;text-decoration:none;">{{ course.title }}</a></li>
   <div id="{{ course.id }}" class="modal">
     <div class="modal-content">
-      <span class="close">&times;</span>
       <h2>{{ course.title }}</h2>
       <p>{{ course.description }}</p>
+      <p>{{ course.faculty }}</p>
       <h3>Topics Covered:</h3>
       <ul>
         {% for topic in course.topics %}
@@ -44,6 +37,10 @@ nav: false
   </div>
 </div>
 {% endfor %}
+
+`External Courses`
+
+* Programming in C by IITK (NPTEL OC)
 
 <script>
 var modals = document.querySelectorAll('.modal');
