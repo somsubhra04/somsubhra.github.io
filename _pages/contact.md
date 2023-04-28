@@ -10,18 +10,14 @@ nav_order: 6
 
 Personal Email: somsubhra@outlook.in
 
-<!-- *If you wish to discuss something related to Academics, kindly write to my IITM domain email address.* -->
 
-You can also find me on [Linkedin](https://www.linkedin.com/in/somsubhrad/), [Twitter](https://twitter.com/somsubhraspeaks) and [FB](https://facebook.com/somsubhra2004).
+You can also find me on [Linkedin](https://www.linkedin.com/in/somsubhrad/) and [Twitter](https://twitter.com/somsubhraspeaks).
 
 Few thoughts:
 
-Friends, Feel free to contact me regarding discussions about acad, collabs etc!
+Friends, Feel free to contact me regarding discussions about academics, collabs etc!
 
 The best way to get in touch with me is via email.
-Generally I won't engage in discussions over Whatsapp, Twitter or FB if I don't know you personally. Apologies. Kindly use my personal email only for communication.
 
 
-If you're someone from IITM, kindly login through your institute G account to access this [page]() that I had created for one of my course activities. Kindly use the Gsite contact feature to deliver your message to my semail which will assure me that the email is genuine.
-
-(You might have already understood that I take cyber security seriously and don't reply to 'outside the organisation' emails that are anonymous or seem to be misleading! 😀 Can't help. With an increasing number of such cases, this is the least that can be done from my side!)
+Generally I won't engage in discussions via my smail id if I don't know you personally or the email is from an external organisation with a public domain (like Gmail etc). Apologies. If you know my IITM smail and are writing from your institute domain, welcome! Else, kindly use my personal email provided above for communication.
