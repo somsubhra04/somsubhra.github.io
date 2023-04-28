@@ -8,7 +8,7 @@ nav_order: 6
 
 <!-- pages/contact.md -->
 
-Personal Email: somsubhra@outlook.in
+Personal Email: somsubhra[at]outlook[dot]in
 
 
 You can also find me on [Linkedin](https://www.linkedin.com/in/somsubhrad/) and [Twitter](https://twitter.com/somsubhraspeaks).
