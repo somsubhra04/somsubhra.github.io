@@ -1,0 +1,16 @@
+- id: course1
+  title: Mathematics for Data Science II (MA1003)
+  description: This course provides an introduction to the mathematical foundations of data science, including linear algebra, calculus, and probability theory.
+  topics:
+    - Linear Algebra
+    - Multivariable Calculus
+    - Probability Theory
+
+- id: course2
+  title: Introduction to Machine Learning (CS5011)
+  description: This course covers the fundamental concepts and techniques of machine learning, including supervised and unsupervised learning, decision trees, and neural networks.
+  topics:
+    - Supervised Learning
+    - Unsupervised Learning
+    - Decision Trees
+    - Neural Networks
