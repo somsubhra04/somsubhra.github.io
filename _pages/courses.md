@@ -30,7 +30,6 @@ nav: false
 </div>
 {% endfor %}
 <br>
-
 `External Courses`
 
 <li>Programming in C by IITK (NPTEL OC)</li>
