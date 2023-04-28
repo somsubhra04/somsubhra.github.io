@@ -28,9 +28,9 @@ nav: false
       </ul>
     </div>
   </div>
-</div><br>
+</div>
 {% endfor %}
-
+<br>
 `External Courses`
 
 * Programming in C by IITK (NPTEL OC)
@@ -40,7 +40,7 @@ nav: false
 .modal {
   display: none;
   position: fixed;
-  z-index: 1000; /* Changed from 1 to 1000 */
+  z-index: 1;
   left: 0;
   top: 0;
   width: 100%;
@@ -79,6 +79,17 @@ nav: false
   color: #000;
   text-decoration: none;
   cursor: pointer;
+}
+
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: -1;
+  pointer-events: none; /* Add this property */
 }
 </style>
 
