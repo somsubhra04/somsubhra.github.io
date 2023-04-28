@@ -11,6 +11,8 @@ I plan to put up some interesting & useful links here!
 * [Towards Data Science](https://towardsdatascience.com){:target="_blank"}
 * [Kaggle](https://www.kaggle.com/datasets/){:target="_blank"}
 * [AoPs](https://artofproblemsolving.com/){:target="_blank"}
+* [NPTEL](https://nptel.ac.in/){:target="_blank"}
+
 
 Attention high school AI enthusiasts!
 
