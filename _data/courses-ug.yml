@@ -5,34 +5,50 @@
   topics:
     - Linear Algebra
     - Multivariable Calculus
-    - Probability Theory
-
+    
 - id: course2
   title: Statistics for Data Science II (MA1004)
   description: 
   faculty: Prof Andrew Thangaraj (Dept of EE IITM)
   topics:
-    - 
+    - Random variables, distributions, functions
+    - Estimation and Inference, Bayesian estimation
+    - Hypothesis testing
 - id: course3
   title: Programming in Python (CS1002)
   description: 
   faculty: Prof Sudarshan Iyengar (HOD, CSE, IITR)
   topics:
-    - 
+    - Intro to algorithms
+    - Collections in Python
+    - File operations
+    - Object Oriented Programming
+    - Libraries like Numpy, Pandas
 
 - id: course4
   title: Mathematics for Data Science I (MA1001)
   description: 
   faculty: Prof Neelesh Upadhye (Dept of Maths IITM), Madhavan Mukund (CMI)
   topics:
-    - 
+    - Calculus (Sequence and limits, differentiation, integration)
+    - Graph Theory (BFS, DFS, DAG, applications, complexity & topological sorting)
+    - Graph Theory algorithms (Dijkstra s, Bellman-ford,  Floyd Warshall, Prim s, Kruskal s) and paths
+    - Functions
+    - Coordinate Geometry
+    - Set Theory
 - id: course5
   title: Statistics for Data Science I (MA1002)
   description: 
   faculty: Prof Usha Mohan (Dept of Management Studies IITM)
   topics:
-    - 
-
+    - Data, types, descriptive and inferential statistics
+    - Measures of central tendency, quartiles, percentiles, measures of dispersion, five number summary
+    - Association between categorical and numerical variables
+    - Permutations and Combinations
+    - Probability
+    - Random variables, PMF, CDF, Exp, Var and SD
+    - Binomial and poisson random variables - Bernoulli trials, iid, binomial random var, Poisson distribution
+    - Continuous random var - Area under the curve, pdf properties, Uniform dist, Expo dist
 - id: course6
   title: Computational Thinking (CS1001)
   description: 
