@@ -29,8 +29,9 @@ nav: false
   </div>
 </div>
 {% endfor %}
+{% newline %}
 
-<p>`External Courses`</p>
+`External Courses`
 
 <li>Programming in C by IITK (NPTEL OC)</li>
 
