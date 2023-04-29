@@ -13,7 +13,7 @@ nav: false
 {% assign courses = site.data.courses-ug %}
 {% for course in courses %}
 <div class="course">
-  <li><a href="#{{ course.id }}" data-toggle="modal" class="my-link" style="color:black;text-decoration:none;">{{ course.title }}</a></li>
+  <li><a href="#{{ course.id }}" data-toggle="modal" class="my-link">{{ course.title }}</a></li>
   <div id="{{ course.id }}" class="modal">
     <div class="modal-content">
       <h2>{{ course.title }}</h2>
@@ -30,12 +30,15 @@ nav: false
 </div>
 {% endfor %}
 
-
+****
 `External Courses`
 
 <li>Programming in C by IITK (NPTEL OC)</li>
 
 <style>
+.my-link{
+  color:black;
+  }
 .my-link:hover {
   color: #800080;
 }
