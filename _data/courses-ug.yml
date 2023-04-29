@@ -7,7 +7,9 @@
     dependence and independence, basis and dimension, rank and nullity, linear mapping and transformation, Kernel and images, equivalence and similarity
     of matrices, Affine subspaces and affine mappings, lengths and angles, Inner products and norms on a vector space, Gram scmidt method, orthogonality, orthonormality,
     orthogonal transformations and rotations)
-    - Multivariable Calculus
+    - Multivariable Calculus (multivariable functions, partial, directional derivatives in terms of gradient, limits for scalar valued mv func, continuity for mv func,
+    directional ascent and descent, tangent hyperplane, critical pts for mv func, Higher order partial derivatives, Hessian matrix, local extrema, Differentiability for
+    mv func)
     
 - id: course2
   title: Statistics for Data Science II (MA1004)
