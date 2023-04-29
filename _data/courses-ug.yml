@@ -14,6 +14,7 @@
     - Random variables, distributions, functions
     - Estimation and Inference, Bayesian estimation
     - Hypothesis testing
+    
 - id: course3
   title: Programming in Python (CS1002)
   description: 
@@ -36,6 +37,7 @@
     - Functions
     - Coordinate Geometry
     - Set Theory
+    
 - id: course5
   title: Statistics for Data Science I (MA1002)
   description: 
@@ -49,22 +51,28 @@
     - Random variables, PMF, CDF, Exp, Var and SD
     - Binomial and poisson random variables - Bernoulli trials, iid, binomial random var, Poisson distribution
     - Continuous random var - Area under the curve, pdf properties, Uniform dist, Expo dist
+    
 - id: course6
   title: Computational Thinking (CS1001)
   description: 
   faculty: Prof Madhavan Mukund (CMI) and G Venkatesh (Dept of Humanities and Social Sciences IITM)
   topics:
-    - 
+    - Variables, Initialization, Iterators, Filtering, Datatypes, Flowcharts, Sanity of data
+    - Pseuodocodes, multiple iterations, nested iterations, logical operators, birthday paradox, binning
+    - Lists, dictionaries, insertion sort
+    - Graph, matrix, Adjacency matrix, Edge labelled graph
+    - Backtracking, Tree, Depth First Search, Recursion
+    - Object oriented programming, Class, Object, Encapsulation, Abstraction, Information hiding, Access specifiers
+    - Decision tree
+    
 - id: course7
   title: English II (HS1002)
   description: 
   faculty: Prof Rajesh Kumar and Karthika Sathyanathan (Dept of Humanities and Social Sciences IITM)
   topics:
-    - 
 
 - id: course8
   title: English I (HS1001)
   description: 
   faculty: Prof Rajesh Kumar and Karthika Sathyanathan (Dept of Humanities and Social Sciences IITM)
-  topics:
-    -     
+  topics:   
