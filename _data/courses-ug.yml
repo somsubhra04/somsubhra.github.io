@@ -12,8 +12,10 @@
   faculty: Prof Andrew Thangaraj (Dept of EE IITM)
   topics:
     - Random variables, distributions, functions
-    - Estimation and Inference, Bayesian estimation
-    - Hypothesis testing
+    - Moment generating functions, CLT
+    - Estimation and Inference (bias, variance, risk of an estimator, method of moments, max likelihood, evaluation of ML estimators, finding MME and ML estimators)
+    - Bayesian estimation
+    - Hypothesis testing (t-test, Chi-squared test, two-sample z/F test)
     
 - id: course3
   title: Programming in Python (CS1002)
@@ -49,7 +51,7 @@
     - Permutations and Combinations
     - Probability
     - Random variables, PMF, CDF, Exp, Var and SD
-    - Binomial and poisson random variables - Bernoulli trials, iid, binomial random var, Poisson distribution
+    - Binomial and poisson random variables - Bernoulli trials, iid, binomial random var, Poisson dist, Geometric dist
     - Continuous random var - Area under the curve, pdf properties, Uniform dist, Expo dist
     
 - id: course6
@@ -66,13 +68,25 @@
     - Decision tree
     
 - id: course7
-  title: English II (HS1002)
+  title: English II (Advanced English) (HS1002)
   description: 
   faculty: Prof Rajesh Kumar and Karthika Sathyanathan (Dept of Humanities and Social Sciences IITM)
   topics:
+    - Figures of speech, discourse markers, rhythm and pitch, intonation
+    - Adverbs, tenses, adjectives, active and passive voice
+    - Clauses, simple, complex and compound sentences
+    - Complements, adjuncts
+    - Mood, modal verbs, auxiliaries, punctuations
+    - Essay writing, precis and SOP writing
+    - Developing communication, speaking, effective listening, reading and writing skills
+    - Participles, negative sensitive elements, Conditionals and Quantifiers in English
+    - Contrast words, advanced vocabulary
+    - Pragmatic competence vs communicative confidence, research report writing, decent emails, resume writing
+    - Barriers to communication
 
 - id: course8
   title: English I (HS1001)
   description: 
   faculty: Prof Rajesh Kumar and Karthika Sathyanathan (Dept of Humanities and Social Sciences IITM)
-  topics:   
+  topics:
+    - Basic English topics
