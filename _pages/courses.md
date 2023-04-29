@@ -29,7 +29,7 @@ nav: false
   </div>
 </div>
 {% endfor %}
-{% newline %}
+
 
 `External Courses`
 
