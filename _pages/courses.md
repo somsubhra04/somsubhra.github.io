@@ -37,10 +37,12 @@ nav: false
 
 <style>
 .my-link{
-  color:black;
+  color: #800080;
   }
 .my-link:hover {
-  color: #800080;
+  color: #0A1172;
+  font-size: large;
+  text-decoration: none;
 }
 </style>
 <style>
