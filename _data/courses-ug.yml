@@ -1,3 +1,31 @@
+- id: course12
+  title: Modern Application Development I (CS2003)
+  description: 
+  faculty: Prof Nitin Chandrachoodan (Dept of EE, IITM) and Thejesh GN
+  topics:
+    - 
+
+- id: course11
+  title: Tools in Data Science (SE2002)
+  description: 
+  faculty: S Anand (Co-founder of Gramener, IITM and IIM B alumnus)
+  topics:
+    - 
+
+- id: course10
+  title: Database Management Systems (CS2001)
+  description: 
+  faculty: Dr Partha Pratim Das (Dept of CSE, IIT KGP)
+  topics:
+    - 
+
+- id: course9
+  title: Machine Learning Foundations (CS2004)
+  description: 
+  faculty: Profs HG Ramaswamy, Arun Rajkumar and Prashanth LA (Dept of CSE, IITM)
+  topics:
+    - 
+
 - id: course8
   title: Mathematics for Data Science II (MA1003)
   description: 
