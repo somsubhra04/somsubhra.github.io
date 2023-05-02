@@ -8,7 +8,7 @@ nav: false
 
 `My UG Learning Journey @ IITM`
 
-**(Updated till Yr 1 Sem 2)**
+**(Updated till Yr 1 Sem 3)**
 
 {% assign courses = site.data.courses-ug %}
 {% for course in courses %}
