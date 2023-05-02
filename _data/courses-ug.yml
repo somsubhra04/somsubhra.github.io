@@ -1,4 +1,4 @@
-- id: course1
+- id: course8
   title: Mathematics for Data Science II (MA1003)
   description: 
   faculty: Prof Sarang Sane (Dept of Maths IITM)
@@ -11,7 +11,7 @@
       directional ascent and descent, tangent hyperplane, critical pts for mv func, Higher order partial derivatives, Hessian matrix, local extrema, Differentiability for
       mv func)
     
-- id: course2
+- id: course7
   title: Statistics for Data Science II (MA1004)
   description: 
   faculty: Prof Andrew Thangaraj (Dept of EE IITM)
@@ -22,7 +22,7 @@
     - Bayesian estimation
     - Hypothesis testing (t-test, Chi-squared test, two-sample z/F test)
     
-- id: course3
+- id: course6
   title: Programming in Python (CS1002)
   description: 
   faculty: Prof Sudarshan Iyengar (HOD, CSE, IITR)
@@ -33,7 +33,7 @@
     - Object Oriented Programming
     - Libraries like Numpy, Pandas
 
-- id: course4
+- id: course5
   title: Mathematics for Data Science I (MA1001)
   description: 
   faculty: Prof Neelesh Upadhye (Dept of Maths IITM), Madhavan Mukund (CMI)
@@ -45,7 +45,7 @@
     - Coordinate Geometry
     - Set Theory
     
-- id: course5
+- id: course4
   title: Statistics for Data Science I (MA1002)
   description: 
   faculty: Prof Usha Mohan (Dept of Management Studies IITM)
@@ -59,7 +59,7 @@
     - Binomial and poisson random variables - Bernoulli trials, iid, binomial random var, Poisson dist, Geometric dist
     - Continuous random var - Area under the curve, pdf properties, Uniform dist, Expo dist
     
-- id: course6
+- id: course3
   title: Computational Thinking (CS1001)
   description: 
   faculty: Prof Madhavan Mukund (CMI) and G Venkatesh (Dept of Humanities and Social Sciences IITM)
@@ -72,7 +72,7 @@
     - Object oriented programming, Class, Object, Encapsulation, Abstraction, Information hiding, Access specifiers
     - Decision tree
     
-- id: course7
+- id: course2
   title: English II (Advanced English) (HS1002)
   description: 
   faculty: Prof Rajesh Kumar and Karthika Sathyanathan (Dept of Humanities and Social Sciences IITM)
@@ -89,7 +89,7 @@
     - Pragmatic competence vs communicative confidence, research report writing, decent emails, resume writing
     - Barriers to communication
 
-- id: course8
+- id: course1
   title: English I (HS1001)
   description: 
   faculty: Prof Rajesh Kumar and Karthika Sathyanathan (Dept of Humanities and Social Sciences IITM)
