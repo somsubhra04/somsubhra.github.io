@@ -12,6 +12,8 @@ I plan to put up some interesting & useful links here!
 * [Kaggle](https://www.kaggle.com/datasets/){:target="_blank"}
 * [AoPs](https://artofproblemsolving.com/){:target="_blank"}
 * [ML Society](http://machinelearning.org/index.html){:target="_blank"}
+* [ML Mastery](https://machinelearningmastery.com/){:target="_blank"}
+* [DL.ai](https://www.deeplearning.ai/){:target="_blank"}
 * [NPTEL](https://nptel.ac.in/){:target="_blank"}
 
 
