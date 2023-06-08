@@ -16,10 +16,15 @@ Here's a small collection from an avid quote enthusiast 😀:
   
 <i class="fas fa-quote-left"></i> A smooth sea never made a skilled sailor ~ Roosevelt
 <br>
+
   
 Everything you can imagine is real ~ Picasso  
 <br>
 
+  
+Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible ~ Richard Feynman
+<br>
+  
   
 If the writing is honest, it cannot be separated from the man who wrote it ~ Tennessee Williams
 <br>
