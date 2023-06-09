@@ -9,12 +9,12 @@ nav: false
 <div class="gallery">
   <figure>
     <img src="path/to/image1.jpg" alt="Image 1">
-    <figcaption>Caption for Image 1</figcaption>
+    <figcaption><i>Chennai</i></figcaption>
   </figure>
   
   <figure>
     <img src="path/to/image2.jpg" alt="Image 2">
-    <figcaption>Caption for Image 2</figcaption>
+    <figcaption><i>Mahabalipuram</i></figcaption>
   </figure>
   
   <!-- Add more image figures here -->
