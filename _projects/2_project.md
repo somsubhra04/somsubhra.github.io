@@ -2,9 +2,9 @@
 layout: page
 title: Online Quiz Management System
 description: this will be updated
-img: assets/img/3.jpg
+img: https://assets.goodfirms.co/blog/general/1566798061-exam-online.jpg
 importance: 2
-category: others
+category: Others
 ---
 
 This will be updated soon.
