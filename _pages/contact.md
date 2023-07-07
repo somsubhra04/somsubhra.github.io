@@ -13,8 +13,6 @@ Personal Email: somsubhra [at] outlook [dot] in
 
 You can also find me on [Linkedin](https://www.linkedin.com/in/somsubhrad/){:target="_blank"} and [Twitter](https://twitter.com/somsubhraspeaks){:target="_blank"}.
 
-Few thoughts:
-
-Friends, feel free to contact me regarding discussions about academics, collabs etc!
+Feel free to contact me regarding discussions about academics, collabs etc!
 
 The best way to get in touch with me is via email.
