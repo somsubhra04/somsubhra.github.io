@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Working with LLMs
+description: Exploring the efficacy of LLMs in QAE and Legal domain
+img: https://www.expert.ai/wp-content/uploads/2023/05/AdobeStock_595600270-1024x768-1.jpg
 importance: 1
 category: Academic
 ---
