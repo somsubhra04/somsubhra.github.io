@@ -34,18 +34,13 @@ nav: false
 .publication-description {
   margin-bottom: 10px;
 }
-
-.publication-link {
-  color: #0A1172;
-  text-decoration: none;
-}
 </style>
 <!-- pages/publications.md -->
 <div class="publications">
     <div class="publication-item">
       <h3 class="publication-title">title</h3>
       <p class="publication-authors">author1, author2</p>
-      <p class="publication-description">desccription</p>
-      <a class="publication-link" href="link">Read more</a>
+      <p class="publication-description">description</p>
+      <a class="my-link" href="">Read more</a>
     </div>
 </div>
