@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 description: A collection of my publications so far.
-years: [1967, 1956, 1950, 1935, 1905]
+years: [1956, 1950, 1935, 1905]
 nav: false
 horizontal: false
 ---
