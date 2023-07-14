@@ -17,8 +17,8 @@ social: false  # includes social icons at the bottom of the page
 ---
 Thanks for stopping by. Myself, Somsubhra. Welcome to my homepage. I'm an undergrad, pursuing BS at [Indian Institute of Technology (IIT) Madras](https://study.iitm.ac.in){:target="_blank"}.
                         
- 
-As a freshman, I am excited to explore various courses in this field to gain a deeper understanding of the breadth and depth of knowledge available. While I have some initial research interests in the Data science, CS, AI, ML, NLP, Maths and Computing domains, I acknowledge that my interests will surely evolve and be more specific as I engage with new ideas and delve into new concepts and theories throughout my academic journey.
+My research interests include Generative AI, Data science, NLP, ML, DL and Computational Maths. 
+<!-- As a freshman, I am excited to explore various courses in this field to gain a deeper understanding of the breadth and depth of knowledge available. While I have some initial research interests in the Data science, CS, AI, ML, NLP, Maths and Computing domains, I acknowledge that my interests will surely evolve and be more specific as I engage with new ideas and delve into new concepts and theories throughout my academic journey. -->
 
 I possess a strong foundation in programming and have gained proficiency in languages like Python, PHP, SQL, and C. Additionally, I have acquired essential web development skills, such as HTML, CSS, and JavaScript. Excited to leverage my skills to explore innovative solutions in future research endeavors.
 
