@@ -8,8 +8,6 @@ nav: false
 
 `My UG Learning Journey @ IITM`
 
-**(Updated till Yr 1 Sem 3)**
-
 {% assign courses = site.data.courses-ug %}
 {% for course in courses %}
 <div class="course">
@@ -31,9 +29,11 @@ nav: false
 {% endfor %}
 
 ****
-`External Courses`
+`External Course Certifications`
 
-<li>Programming in C by IITK (NPTEL OC)</li>
+<li>Python for DS (IITM NPTEL OC)</li>
+<li>MS Learn AI Skills - ML Challenge</li>
+<li>Programming in C (IITK NPTEL OC)</li>
 
 <style>
 .my-link{
