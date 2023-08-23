@@ -1,3 +1,21 @@
+- id: course15
+  title: Machine Learning Techniques (CS2007)
+  description: 
+  faculty: 
+  topics:
+    - 
+- id: course14
+  title: Business Data Management (MS2001)
+  description: 
+  faculty: 
+  topics:
+    - 
+- id: course13
+  title: Modern Application Development II (CS2006)
+  description: 
+  faculty: 
+  topics:
+    - 
 - id: course12
   title: Modern Application Development I (CS2003)
   description: 
