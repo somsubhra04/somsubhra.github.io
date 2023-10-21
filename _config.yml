@@ -206,8 +206,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: [De]
-  first_name: [Somsubhra]
+  surname: De
+  name: [Somsubhra, S.]
 
   style: apa
   locale: en
