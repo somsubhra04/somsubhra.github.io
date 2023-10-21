@@ -5,7 +5,7 @@ permalink: /publications/
 #description: A collection of my publications so far.
 nav: false
 ---
-<style>
+<!--<style>
 .my-link {
   color: #800080;
 }
@@ -34,13 +34,22 @@ nav: false
 .publication-description {
   margin-bottom: 10px;
 }
-</style>
+</style>-->
 <!-- pages/publications.md -->
-<div class="publications">
+<!--<div class="publications">
     <div class="publication-item">
       <h3 class="publication-title">title</h3>
       <p class="publication-authors">author1, author2</p>
       <p class="publication-description">description</p>
       <a class="my-link" href="">Read more</a>
     </div>
+</div>-->
+
+<div class="publications">
+
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
+{% endfor %}
+
 </div>
