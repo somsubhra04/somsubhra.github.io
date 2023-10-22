@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://somsubhra04.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://somsubhra04.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-10-22T06:16:56+00:00</updated><id>https://somsubhra04.github.io/feed.xml</id><title type="html">Somsubhra</title><subtitle>Somsubhra&apos;s personal website  
+</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="https://somsubhra04.github.io/blog/2023/hi/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-02-20T00:00:00+00:00</published><updated>2023-02-20T00:00:00+00:00</updated><id>https://somsubhra04.github.io/blog/2023/hi</id><content type="html" xml:base="https://somsubhra04.github.io/blog/2023/hi/"><![CDATA[<h1 id="welcome">Welcome</h1>
+
+<p><strong>Hello world</strong>, this is my first Jekyll blog post.</p>
+
+<p>I hope you like it!</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Welcome]]></summary></entry></feed>
